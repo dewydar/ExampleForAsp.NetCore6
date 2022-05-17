@@ -1,0 +1,332 @@
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\appsettings.Development.json
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\appsettings.json
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.API.exe
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.API.deps.json
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.API.runtimeconfig.json
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.API.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.API.pdb
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.AssemblyReference.cache
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfoInputs.cache
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfo.cs
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cs
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cache
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\scopedcss\bundle\NBU.API.styles.css
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CopyComplete
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.dll
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\refint\NBU.API.dll
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.pdb
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\NBU.API.genruntimeconfig.cache
+F:\App\Core\Sample\NBU\NBU.API\obj\Debug\net6.0\ref\NBU.API.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\appsettings.Development.json
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\appsettings.json
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.exe
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.deps.json
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.runtimeconfig.json
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.pdb
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.dll
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.pdb
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.pdb
+D:\WORK\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.pdb
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.AssemblyReference.cache
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfoInputs.cache
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfo.cs
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CoreCompileInputs.cache
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cs
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cache
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\scopedcss\bundle\NBU.API.styles.css
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CopyComplete
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.dll
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\refint\NBU.API.dll
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.pdb
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.genruntimeconfig.cache
+D:\WORK\NBU\NBU\NBU.API\obj\Debug\net6.0\ref\NBU.API.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\appsettings.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.exe
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.deps.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.runtimeconfig.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.AssemblyReference.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfoInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfo.cs
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CoreCompileInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\scopedcss\bundle\NBU.API.styles.css
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CopyComplete
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\refint\NBU.API.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.genruntimeconfig.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.API\obj\Debug\net6.0\ref\NBU.API.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\appsettings.Development.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\appsettings.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.exe
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.runtimeconfig.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.API.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.IO.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\scopedcss\bundle\NBU.API.styles.css
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CopyComplete
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\refint\NBU.API.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\NBU.API.genruntimeconfig.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.API\obj\Debug\net6.0\ref\NBU.API.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\appsettings.Development.json
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\appsettings.json
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.API.exe
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.API.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.API.runtimeconfig.json
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.API.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.API.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.IO.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.BLL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.Common.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.API\bin\Debug\net6.0\NBU.DAL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\scopedcss\bundle\NBU.API.styles.css
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.csproj.CopyComplete
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\refint\NBU.API.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\NBU.API.genruntimeconfig.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.API\obj\Debug\net6.0\ref\NBU.API.dll

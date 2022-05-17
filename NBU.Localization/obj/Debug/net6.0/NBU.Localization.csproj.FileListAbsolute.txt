@@ -1,0 +1,34 @@
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Localization.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Localization.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Localization.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\bin\Debug\net6.0\ar\NBU.Localization.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.Resources._Layout.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.Resources._Layout.ar.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.csproj.GenerateResource.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\ar\NBU.Localization.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\refint\NBU.Localization.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Localization\obj\Debug\net6.0\ref\NBU.Localization.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Localization.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Localization.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Localization.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\ar\NBU.Localization.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.Resources._Layout.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.Resources._Layout.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.csproj.GenerateResource.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\ar\NBU.Localization.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\refint\NBU.Localization.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Localization.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\ref\NBU.Localization.dll

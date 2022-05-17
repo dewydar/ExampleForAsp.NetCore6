@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = @Localizer["PageTitle"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a class="btn btn-primary" href="javascript:void(0)" onclick="return OpenAddForm('Add')">Add</a>
+
+<hr />
+
+
+<partial name="Details"/>
+
+@section scripts{
+    <script>
+        var OpenAddForm = function (FormType) {
+
+        $.ajax({
+            url: '/Employee/Form',
+            method: 'GET',
+            data:{
+                FormType:FormType
+            }
+        }).done((data) => {
+            $('#modal-trigger .title').text('@Localizer["Create"]');
+            $('#modal-trigger .modal-body').html(data);
+            $('#modal-trigger').modal('show');
+        }).fail(function (response) {
+            toastr.error(response.responseText);
+        })
+        }
+        </script>
+}

@@ -1,0 +1,188 @@
+﻿@model EmployeeVM
+@{
+    var listDepartments = new SelectList(Model.Departments.ToList(), "Value", "Name");
+}
+
+<link href="~/css/select2.min.css" rel="stylesheet" />
+<div class="container">
+        <div class="card">
+            <form asp-controller="Employee" asp-action="PostModel" data-ajax-method="post" data-ajax="true"
+                  data-ajax-failure="OnFailure"
+                  data-ajax-success="OnSuccess"
+                  data-ajax-begin="OnBegin"
+                  enctype="multipart/form-data">
+                <input type="hidden" asp-for="FormName" value="@Model.FormName">
+                @if (Model.FormName == "Add")
+                {
+                    <h2><strong>@Localizer["Add"]</strong> <b>@ViewData["Title"]</b> </h2>
+                }
+                else if (Model.FormName == "Update")
+                {
+                    <h2><strong>@Localizer["Update"]</strong> <b>@ViewData["Title"]</b> </h2>
+                }
+                else if (Model.FormName == "Details")
+                {
+                    <h2><strong>@Localizer["Details"]</strong> <b>@ViewData["Title"]</b> </h2>
+                }
+                <div class="body p-0 pt-2">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>@Localizer["FirstName"]</label>
+                                <input type="text" class="form-control" asp-for="FirstName" id="FirstName" name="FirstName">
+                                <span asp-validation-for="FirstName"></span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>@Localizer["LastName"]</label>
+                                <input type="text" name="LastName" asp-for="LastName" class="form-control" id="LastName">
+                                <span asp-validation-for="LastName"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 col-md-6 col-lg-6 col-12">
+                            <div class="form-group">
+                                <label>@Localizer["DateOfBirth"]</label>
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="zmdi zmdi-calendar"></i>
+                                    </span>
+                                    <input type="date" asp-for="DateOfBirth" class="form-control">
+                                </div>
+                                <span asp-validation-for="DateOfBirth"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>@Localizer["Salary"]</label>
+                                <input type="number" name="Salary" asp-for="Salary" class="form-control" id="Salary" value="@Model?.Salary">
+                                <span asp-validation-for="Salary"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                            <label>@Localizer["GenderId"]</label>
+                            <div class="form-control">
+                            @foreach (var item in Model.Genders)
+                            {
+                                <input asp-for="GenderId" type="radio" value="@item.Value" /> @item.Name
+                            }
+                            
+                        </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>@Localizer["DepartmentId"]</label>
+                                <select asp-for="DepartmentId" asp-items="@listDepartments" class="form-control Select-form-control select2" onchange="return GetJobByDepId()">
+                                    <option value="-1">@Localizer["SelectDepartment"]</option>
+                                </select>
+                                <span asp-validation-for="DepartmentId"></span>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <label>@Localizer["JobId"]</label>
+                                <select asp-for="JobId" id="Jobs_Records" class="form-control Select-form-control select2">
+                                    <option value="-1">@Localizer["SelectJob"]</option>
+                                </select>
+                                <span asp-validation-for="JobId"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                        <label>@Localizer["UploudFile"]</label>
+                        <div class="form-control">
+                        <input type="file" asp-for="DocumentAttached" name="DocumentAttached" id="DocumentAttached"/>
+                    </div>
+                    </div>
+                    </div>
+                    @if (Model.FormName == "Add")
+                    {
+                        <button type="submit" class="btn btn-primary btn-round">@Localizer["Create"]</button>
+                    }
+                    else if (Model.FormName == "Edit")
+                    {
+                        <input type="hidden" asp-for="Id" value="@Model.Id">
+                        <input type="hidden" asp-for="FilePath" value="@Model.FilePath">
+                        <input type="hidden" asp-for="DocumentInfoId" value="@Model.DocumentInfoId">
+                        <input type="hidden" asp-for="DocumentInfo" value="@Model.DocumentInfo">
+                        <button type="submit" class="btn btn-primary btn-round">@Localizer["Edit"]</button>
+                    }
+                    else if (Model.FormName == "Details")
+                    {
+                    }
+                </div>
+            </form>
+        </div>
+</div>
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+<script>
+        $(()=>{
+            //$('.select2').select2();
+
+            //$('.select2').select2({
+            //  selectOnClose: true
+            //});
+
+        if ('@Model.FormName'=="Details"){
+                    disableInputs();
+                }else if ('@Model.FormName'=="Edit"){
+                    GetJobByDepId();
+                }
+        })
+        var OnBegin = function () {
+                $('form button[type="submit"]').attr('disabled', true).text('@Localizer["WaitSending"]');
+        }
+         var OnFailure = function (response) {
+                $('form button[type="submit"]').attr('disabled', false).text('@Localizer["Create"]');
+                toastr.error(response);
+        }
+        var OnSuccess = function (response) {
+                $('form button[type="submit"]').attr('disabled', false).text('@Localizer["Create"]');
+
+                if (response.add) {
+                    if (response.done) {
+                        toastr.success(response.message);
+                        LoadDataGrid();
+                        $('#modal-trigger .modal-body').html('');
+                        $('#modal-trigger').modal('hide');
+                    } else {
+                        toastr.error(response.message);
+                    }
+                } else if (response.edit) {
+                    if (response.done) {
+                        toastr.success(response.message);
+                        LoadDataGrid();
+                       $('#modal-trigger .modal-body').html('');
+                        $('#modal-trigger').modal('hide');
+                    } else {
+                        toastr.error(response.message);
+                    }
+                }
+                }
+               var GetJobByDepId = function () {
+
+                   var DepId=$('#DepartmentId').val();
+            $.ajax({
+
+                url: '/Employee/GetJobByDepID?DepartmentId=' + DepId,
+                method: 'Get'
+            }).done((data) => {
+                var o = '';
+                o+='<option value="-1">@Localizer["SelectJob"]</option>'
+                 $.each(data, (i, item) => {
+                    o+='<option value="'+ item.value +'">'+ item.name +'</option>';
+                })
+                $('#Jobs_Records').html(o);
+                $('#Jobs_Records').val('@Model.JobId').trigger('change');
+            })
+        }
+</script>
+
+
+<script src="~/js/select2.full.min.js"></script>

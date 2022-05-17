@@ -1,0 +1,44 @@
+﻿@{
+    int EmployeeId = int.Parse(ViewBag.EmployeeId);
+   // int EmployeeId = !string.IsNullOrEmpty(ViewBag.EmployeeId)?int.Parse(ViewBag.EmployeeId):0;
+    ViewData["Title"] = @Localizer["PageTitle"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h4>@Localizer["PageTitle"] : <span>@ViewBag.EmployeeName</span></h4>
+<div id="Form"></div>
+<div id="Detail"></div>
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            LoadPage();
+        })
+        var LoadPage=function(){
+            LoadForm();
+            LoadDetails();
+        }
+        var LoadForm=function(){
+            $.ajax({
+                url: '/EmployeeCertification/form',
+                method: 'Get',
+                data: {
+                    'EmployeeId': '@EmployeeId',
+                    'Id': '0',
+                    'FormType': 'Add',
+                }
+            }).done((data)=>{
+                $('#Form').html(data)
+            })
+        }
+        var LoadDetails=function(){
+            $.ajax({
+                url: '/EmployeeCertification/Details',
+                method: 'Get',
+                data: {
+                    'EmployeeId': '@EmployeeId',
+                }
+            }).done((data)=>{
+                $('#Detail').html(data)
+            })
+        }
+    </script>
+}

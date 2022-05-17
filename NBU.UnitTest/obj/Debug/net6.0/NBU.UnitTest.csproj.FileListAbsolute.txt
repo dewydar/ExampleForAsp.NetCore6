@@ -1,0 +1,756 @@
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.AssemblyReference.cache
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfoInputs.cache
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfo.cs
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.deps.json
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.runtimeconfig.json
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.pdb
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CopyComplete
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\refint\NBU.UnitTest.dll
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.pdb
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.genruntimeconfig.cache
+F:\App\Core\Sample\NBU\NBU.UnitTest\obj\Debug\net6.0\ref\NBU.UnitTest.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.deps.json
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.runtimeconfig.json
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.pdb
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.pdb
+D:\WORK\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.pdb
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.AssemblyReference.cache
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfoInputs.cache
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfo.cs
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CoreCompileInputs.cache
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CopyComplete
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\refint\NBU.UnitTest.dll
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.pdb
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.genruntimeconfig.cache
+D:\WORK\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\ref\NBU.UnitTest.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.deps.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.runtimeconfig.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.AssemblyReference.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfoInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfo.cs
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CopyComplete
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\refint\NBU.UnitTest.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.genruntimeconfig.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\ref\NBU.UnitTest.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.runtimeconfig.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IO.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CopyComplete
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\refint\NBU.UnitTest.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.genruntimeconfig.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\ref\NBU.UnitTest.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.runtimeconfig.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IO.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.BLL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.DAL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.csproj.CopyComplete
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\refint\NBU.UnitTest.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.genruntimeconfig.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\obj\Debug\net6.0\ref\NBU.UnitTest.dll

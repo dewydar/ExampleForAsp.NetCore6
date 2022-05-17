@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NBU.UI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/NBU.UI.styles.css" asp-append-version="true" />
+    <!-- Additional Configures -->
+    <link href="~/css/toastr.min.css" rel="stylesheet" />
+    <link href="~/css/Loaders.css" rel="stylesheet" />
+    <link href="~/lib/select2/css/select2.min.css" rel="stylesheet" />
+    <!-- Dt -->
+    <link href="~/lib/DataTable/DataTables-1.10.18/css/dataTables.bootstrap4.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Scroller-2.0.0/css/scroller.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Responsive-2.2.2/css/responsive.bootstrap4.css" rel="stylesheet" />
+    <link href="~/lib/DataTable/Buttons-1.5.6/css/buttons.bootstrap4.min.css" rel="stylesheet" />
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <!--autoComplete-->
+    <link href="~/css/jquery-ui.css" rel="stylesheet" />
+    <script src="~/js/jquery-ui.js"></script>
+    <!-- End Additional Configures -->
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">NBU.UI</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">@Localizer["Home"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li> 
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Genders" asp-action="Index">Gender</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Index">@Localizer["Employee"]</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+            <div class="col-md-6 text-right">
+            @await Html.PartialAsync("SelectCulture")
+        </div>
+        <!-- Modals -->
+    <div class="modal fade modal" id="modal-trigger" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="title" id="largeModalLabel"></h4></div>
+                <div class="modal-body p-3"></div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>
+
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - NBU.UI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <!--  Scripts bundle Js -->
+    <script src="~/js/jquery.unobtrusive-ajax.min.js"></script>
+    <!--  Scripts bundle Js -->
+    <script src="~/assets/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets/bundles/vendorscripts.bundle.js"></script>
+    <script src="~/assets/plugins/momentjs/moment.js"></script>
+    <script src="~/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script>
+    <script src="~/assets/bundles/mainscripts.bundle.js"></script>
+    <!-- libs -->
+    <script src="~/js/toastr.min.js"></script>
+    <script src="~/js/bootbox.min.js"></script>
+    <script src="~/lib/select2/js/select2.full.min.js"></script>
+    <!-- Dt -->
+    <script src="~/lib/DataTable/DataTables-1.10.18/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/DataTable/DataTables-1.10.18/js/dataTables.bootstrap4.js"></script>
+    <script src="~/lib/DataTable/datatables.min.js"></script>
+    <script src="~/lib/DataTable/Responsive-2.2.2/js/responsive.bootstrap4.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/dataTables.buttons.min.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/buttons.html5.min.js"></script>
+    <script src="~/lib/DataTable/Buttons-1.5.6/js/buttons.print.min.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,60 @@
+F:\App\Core\Sample\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.deps.json
+F:\App\Core\Sample\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.AssemblyReference.cache
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfoInputs.cache
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfo.cs
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\refint\NBU.Common.dll
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\NBU\NBU.Common\obj\Debug\net6.0\ref\NBU.Common.dll
+D:\WORK\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.deps.json
+D:\WORK\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.dll
+D:\WORK\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.pdb
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.AssemblyReference.cache
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfoInputs.cache
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfo.cs
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.CoreCompileInputs.cache
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.dll
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\refint\NBU.Common.dll
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.pdb
+D:\WORK\NBU\NBU\NBU.Common\obj\Debug\net6.0\ref\NBU.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.deps.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.AssemblyReference.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfoInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfo.cs
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.CoreCompileInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\refint\NBU.Common.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.Common\obj\Debug\net6.0\ref\NBU.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\refint\NBU.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.Common\obj\Debug\net6.0\ref\NBU.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\bin\Debug\net6.0\NBU.Common.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\refint\NBU.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\NBU.Common.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.Common\obj\Debug\net6.0\ref\NBU.Common.dll

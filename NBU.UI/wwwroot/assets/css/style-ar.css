@@ -1,0 +1,147 @@
+﻿@import "https://fonts.googleapis.com/css?family=Cairo:400,600,700";
+
+body {
+    font-family: 'Cairo',sans-serif !important;
+}
+.text-left {
+    text-align: right !important
+}
+
+.form-group label {
+    float: right
+}
+
+
+
+span {
+    text-align: right
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    left: 1px
+}
+
+.language {
+    padding: 15px 40px
+}
+
+span, li {
+    font-family: 'Cairo',sans-serif
+}
+
+.rtl .sidebar .menu .list .menu-toggle:before, .rtl .sidebar .menu .list .menu-toggle:after {
+    right: auto !important;
+    left: 0
+}
+
+.margin-icon {
+    text-align: right !important
+}
+
+.input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child > .dropdown-toggle, .input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle) {
+    border-right: 0 none;
+    position: absolute !important;
+    left: 0 !important
+}
+
+.form-group .input-group-addon, .input-group .input-group-addon {
+    padding: 7px 0 4px 5px !important;
+    border-right: 1px solid #5ebabe;
+    border-bottom: 0;
+}
+
+.dataTables_wrapper .dt-buttons {
+    float: right
+}
+
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: left !important
+}
+
+.input-group > .custom-select:not(:first-child), .input-group > .form-control:not(:first-child) {
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important
+}
+
+@media (max-width:768px) {
+
+    .nav-tabs.nav-doc > .nav-item > .nav-link {
+        font-size: 12px;
+    }
+    .form-group .input-group-addon, .input-group .input-group-addon {
+        padding: 10px 0 1px 0 !important;
+    }
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    float: right !important;
+}
+
+#PProfile .body {
+    text-align: right;
+}
+
+.bootbox-body {
+    text-align: right;
+}
+
+.close {
+    float: left;
+}
+
+.field-validation-error {
+    display: flex;
+}
+.input-group-addon {
+    border-right: 1px solid #60bafd;
+
+}
+@media screen and (max-width: 580px) {
+    .btn-add {
+        left: 20%!important;
+    }
+
+    .icon-add {
+        left: 8%!important;
+    }
+}
+.form-group .input-group-addon, .input-group .input-group-addon {
+    padding: 7px 4px 7px 7px;
+}
+.form-group .form-control, .input-group .form-control {
+    padding: 5px 18px 5px 30px
+}
+.profileTwo .nav-pills .nav-link {
+    text-align: right;
+}
+
+.dropdown_menu > ul {
+    left: -30px;
+    right: auto !important;
+}
+.doctor-Appointments ul li {
+    margin: 0 0 10px 10px !important;
+}
+/********
+    Start Modal Detection Ticket
+    *********/
+/*.detection-ticket .detection-ticket-content .header-top .info-ticket {
+    border-left: 1px solid #dee2e6 !important;
+    border-right: 0;
+}*/
+
+.prescription-style-one .prescription-content .body .patient-info li:before,
+.prescription-style-one .prescription-content .footer .doctor-signature:before {
+    left: auto;
+    right: 0;
+}
+.prescription-style-one .prescription-content .body .prescription-info h6 {
+    text-align: right;
+}
+.prescription-style-one .prescription-content .body .details-prescription ul li {
+    text-align: right;
+    margin-right: 26px;
+}
+.prescription-style-one .prescription-content .footer .doctor-signature span {
+    margin: 0 10px;
+}

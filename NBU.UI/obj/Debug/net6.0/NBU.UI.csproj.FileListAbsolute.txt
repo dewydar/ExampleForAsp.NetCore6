@@ -1,0 +1,606 @@
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\appsettings.Development.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\appsettings.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\libman.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.staticwebassets.runtime.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.exe
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.runtimeconfig.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ar\NBU.UI.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\AutoMapper.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Humanizer.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\MessagePack.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Localization.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Localization.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.IO.Abstractions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.Common.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.Localization.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.Common.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\NBU.Localization.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\bin\Debug\net6.0\ar\NBU.Localization.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Controllers.GendersController.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Create.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Index.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared.SelectCulture.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared._Layout.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Controllers.GendersController.ar.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Create.ar.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Index.ar.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared.SelectCulture.ar.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared._Layout.ar.resources
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.GenerateResource.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.MvcApplicationPartsAssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.MvcApplicationPartsAssemblyInfo.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.RazorAssemblyInfo.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.RazorAssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\ar\NBU.UI.resources.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\staticwebassets.build.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\staticwebassets.development.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\scopedcss\bundle\NBU.UI.styles.css
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\scopedcss\projectbundle\NBU.UI.bundle.scp.css
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.CopyComplete
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\refint\NBU.UI.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.genruntimeconfig.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\ref\NBU.UI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\appsettings.Development.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\libman.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\appsettings.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.staticwebassets.runtime.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.exe
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.runtimeconfig.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ar\NBU.UI.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\AutoMapper.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Humanizer.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\MessagePack.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Localization.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.IO.Abstractions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.Common.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.Localization.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.BLL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.Common.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.DAL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.Localization.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\ar\NBU.Localization.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Controllers.GendersController.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Create.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Index.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared.SelectCulture.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared._Layout.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Controllers.GendersController.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Create.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Genders.Index.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared.SelectCulture.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.Resources.Views.Shared._Layout.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.GenerateResource.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.MvcApplicationPartsAssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.MvcApplicationPartsAssemblyInfo.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.RazorAssemblyInfo.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.RazorAssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\ar\NBU.UI.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\scopedcss\bundle\NBU.UI.styles.css
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\scopedcss\projectbundle\NBU.UI.bundle.scp.css
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.csproj.CopyComplete
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\refint\NBU.UI.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.genruntimeconfig.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\obj\Debug\net6.0\ref\NBU.UI.dll

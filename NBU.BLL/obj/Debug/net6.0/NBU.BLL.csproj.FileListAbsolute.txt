@@ -1,0 +1,75 @@
+F:\App\Core\Sample\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.deps.json
+F:\App\Core\Sample\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.AssemblyReference.cache
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfoInputs.cache
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfo.cs
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CopyComplete
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\refint\NBU.BLL.dll
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\NBU\NBU.BLL\obj\Debug\net6.0\ref\NBU.BLL.dll
+D:\WORK\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.deps.json
+D:\WORK\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.dll
+D:\WORK\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.pdb
+D:\WORK\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.dll
+D:\WORK\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.pdb
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.AssemblyReference.cache
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfoInputs.cache
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfo.cs
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CoreCompileInputs.cache
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CopyComplete
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.dll
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\refint\NBU.BLL.dll
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.pdb
+D:\WORK\NBU\NBU\NBU.BLL\obj\Debug\net6.0\ref\NBU.BLL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.deps.json
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.AssemblyReference.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfoInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfo.cs
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CoreCompileInputs.cache
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CopyComplete
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\refint\NBU.BLL.dll
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.pdb
+C:\Users\4769485758\Downloads\NBU\NBU\NBU.BLL\obj\Debug\net6.0\ref\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CopyComplete
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\refint\NBU.BLL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.BLL\obj\Debug\net6.0\ref\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\bin\Debug\net6.0\NBU.BLL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\bin\Debug\net6.0\NBU.DAL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.csproj.CopyComplete
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\refint\NBU.BLL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\NBU.BLL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.BLL\obj\Debug\net6.0\ref\NBU.BLL.dll

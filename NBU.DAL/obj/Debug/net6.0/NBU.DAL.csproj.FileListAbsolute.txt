@@ -1,0 +1,24 @@
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\bin\Debug\net6.0\NBU.DAL.deps.json
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\bin\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\bin\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.csproj.AssemblyReference.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.AssemblyInfoInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.AssemblyInfo.cs
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.csproj.CoreCompileInputs.cache
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\refint\NBU.DAL.dll
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.pdb
+F:\App\Core\Sample\Current\NBU\NBU\NBU.DAL\obj\Debug\net6.0\ref\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\bin\Debug\net6.0\NBU.DAL.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\bin\Debug\net6.0\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\bin\Debug\net6.0\NBU.DAL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\refint\NBU.DAL.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\NBU.DAL.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.DAL\obj\Debug\net6.0\ref\NBU.DAL.dll

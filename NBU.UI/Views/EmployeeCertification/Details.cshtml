@@ -1,0 +1,98 @@
+﻿@{
+    int EmployeeId = int.Parse(ViewBag.EmployeeId);
+}
+<div class="row clearfix">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="card">
+            <table id="CertificationTable" class="table table-bordered table-striped table-hover js-basic-example dataTable">
+                <thead>
+                    <tr>
+                        <th> @Localizer["Id"]</th>
+                        <th> @Localizer["CertificationName"]</th>
+                        <th> @Localizer["CertificationDate"]</th>
+                        <th></th>
+
+                    </tr>
+                </thead>
+                <tbody class=""></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+     $(function () {
+        LoadDataGrid();
+    })
+    var LoadDataGrid=function(){
+        $.ajax({
+            url: '/EmployeeCertification/LoadDataGrid',
+            method: 'GET',
+            data:{"EmployeeId":@EmployeeId}
+        }).done((data)=>{
+            $('.spinner').fadeOut(500);
+        var dtObj = {
+                data: data,
+                retrieve: true,
+                ordering: false,
+                responsive: true,
+                dom: 'Bfrtip',
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ],
+                columns: [
+                    { 'data': 'id' },
+                    { 'data': 'certificationName' },
+                    { 'data': 'certificationDate' },
+                    {
+                        'data': 'id',
+                        'render': function (ID) {
+                            var rows = '';
+                              rows += '<button onclick="return Delete(' + ID +')" class="btn btn-info">@Localizer["Delete"]"</button>';
+                            return rows;
+                        }
+                    }
+                ]
+            };
+            $('#CertificationTable').dataTable().fnDestroy();
+            $('#CertificationTable').dataTable(dtObj);
+        });
+    }
+    var Delete = function (ID) {
+         bootbox.confirm({
+            message: "@Localizer["DeleteMessage"] ",
+            buttons: {
+                confirm: {
+                    label: '@Localizer["Yes"]',
+                    className: 'btn-success'
+                },
+                cancel: {
+                    label: '@Localizer["No"]',
+                    className: 'btn-danger'
+                }
+            },
+            callback: function (result) {
+                if (result) {
+
+                    $.ajax({
+                        url: '/EmployeeCertification/Delete',
+                        method: 'POST',
+                        data: {
+                            Id: ID
+                        }
+                    }).done((response) => {
+                        if (response.done) {
+                            toastr.success(response.message);
+                            LoadDataGrid();
+                        } else {
+                            toastr.error(response.message);
+                        }
+
+                    }).fail(function (response) {
+                        toastr.error(response.responseText);
+                    })
+
+                }
+            }
+        });
+        }
+</script>

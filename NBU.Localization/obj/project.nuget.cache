@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZA/OPTHUzkX3PfHZwgs+Jh7PM3fQT/RwmFrYkyjpRqQ+Z3RliFXh2LzDOwyEJH8Q6/ME9oi1dVxaUEf/hJZoQA==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.aspnetcore.localization\\2.2.0\\microsoft.aspnetcore.localization.2.2.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.localization\\6.0.5\\microsoft.extensions.localization.6.0.5.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.5\\microsoft.extensions.localization.abstractions.6.0.5.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\4769485758\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
