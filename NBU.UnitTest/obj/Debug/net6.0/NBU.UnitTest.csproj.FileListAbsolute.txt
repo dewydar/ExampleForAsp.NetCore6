@@ -602,15 +602,15 @@ F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.pd
 F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\NBU.UnitTest.genruntimeconfig.cache
 F:\App\Core\Sample\Current\NBU\NBU\NBU.UnitTest\obj\Debug\net6.0\ref\NBU.UnitTest.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
-F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testhost.exe
+F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
-F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.deps.json
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.runtimeconfig.json
 F:\Work\NBU 17-05-2022\NBU\NBU.UnitTest\bin\Debug\net6.0\NBU.UnitTest.dll

@@ -302,8 +302,8 @@ F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.pdb
 F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\NBU.UI.genruntimeconfig.cache
 F:\App\Core\Sample\Current\NBU\NBU\NBU.UI\obj\Debug\net6.0\ref\NBU.UI.dll
 F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\appsettings.Development.json
-F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\libman.json
 F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\appsettings.json
+F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\libman.json
 F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.staticwebassets.runtime.json
 F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.exe
 F:\Work\NBU 17-05-2022\NBU\NBU.UI\bin\Debug\net6.0\NBU.UI.deps.json
