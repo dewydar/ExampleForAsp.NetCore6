@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBU.API", "NBU.API\NBU.API.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBU.UnitTest", "NBU.UnitTest\NBU.UnitTest.csproj", "{B300E9F6-565C-4197-9220-F0A477C6ECBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBU.Localization", "NBU.Localization\NBU.Localization.csproj", "{DA93810C-23DD-4ACF-AC1A-83A62154F612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBU.Resources.cs", "NBU.Localization\NBU.Resources.cs.csproj", "{DA93810C-23DD-4ACF-AC1A-83A62154F612}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

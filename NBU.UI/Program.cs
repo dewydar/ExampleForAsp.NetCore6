@@ -2,7 +2,6 @@ using AutoMapper;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using NBU.DAL.Context;
-using NBU.Localization.Configuration;
 using NBU.UI.InfraStructure;
 using System.Configuration;
 

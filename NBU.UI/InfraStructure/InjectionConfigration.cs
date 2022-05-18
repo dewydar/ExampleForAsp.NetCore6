@@ -7,8 +7,7 @@ using NBU.BLL._Job;
 using NBU.Common.EmailConfigure;
 using NBU.DAL.Entities;
 using NBU.DAL.Repository;
-using NBU.Localization.Configuration;
-using NBU.Localization.Resources;
+using NBU.Resources.cs;
 
 namespace NBU.UI.InfraStructure
 {
@@ -33,7 +32,7 @@ namespace NBU.UI.InfraStructure
             services.AddTransient<IRepositoryBase<EmployeeCertification>, RepositoryBase<EmployeeCertification>>();
             services.AddTransient<IEmployeeCertificationBLL, EmployeeCertificationBLL>();
             //Localization Confiure
-            services.AddSingleton<ILocalizationBase<_Layout>, LocalizationBase<_Layout>>();
+            services.AddSingleton<I_LayoutResx, _LayoutResx>();
             //Sending Email service
             services.AddTransient<ISendEmail, SendEmail>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();

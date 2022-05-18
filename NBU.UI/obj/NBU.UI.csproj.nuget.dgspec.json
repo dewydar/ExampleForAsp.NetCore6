@@ -217,12 +217,12 @@
         }
       }
     },
-    "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj": {
+    "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj",
-        "projectName": "NBU.Localization",
-        "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj",
+        "projectUniqueName": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj",
+        "projectName": "NBU.Resources.cs",
+        "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj",
         "packagesPath": "C:\\Users\\4769485758\\.nuget\\packages\\",
         "outputPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\obj\\",
         "projectStyle": "PackageReference",
@@ -324,8 +324,8 @@
               "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.DAL\\NBU.DAL.csproj": {
                 "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.DAL\\NBU.DAL.csproj"
               },
-              "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj": {
-                "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj"
+              "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj": {
+                "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj"
               }
             }
           }

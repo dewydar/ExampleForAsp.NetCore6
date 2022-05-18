@@ -3933,7 +3933,7 @@
           "bin/placeholder/NBU.DAL.dll": {}
         }
       },
-      "NBU.Localization/1.0.0": {
+      "NBU.Resources.cs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -3941,10 +3941,10 @@
           "Microsoft.Extensions.Localization": "6.0.5"
         },
         "compile": {
-          "bin/placeholder/NBU.Localization.dll": {}
+          "bin/placeholder/NBU.Resources.cs.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NBU.Localization.dll": {}
+          "bin/placeholder/NBU.Resources.cs.dll": {}
         }
       }
     }
@@ -11446,10 +11446,10 @@
       "path": "../NBU.DAL/NBU.DAL.csproj",
       "msbuildProject": "../NBU.DAL/NBU.DAL.csproj"
     },
-    "NBU.Localization/1.0.0": {
+    "NBU.Resources.cs/1.0.0": {
       "type": "project",
-      "path": "../NBU.Localization/NBU.Localization.csproj",
-      "msbuildProject": "../NBU.Localization/NBU.Localization.csproj"
+      "path": "../NBU.Localization/NBU.Resources.cs.csproj",
+      "msbuildProject": "../NBU.Localization/NBU.Resources.cs.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11465,7 +11465,7 @@
       "NBU.BLL >= 1.0.0",
       "NBU.Common >= 1.0.0",
       "NBU.DAL >= 1.0.0",
-      "NBU.Localization >= 1.0.0",
+      "NBU.Resources.cs >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.3.0",
       "System.Resources.ResourceManager >= 4.3.0"
     ]
@@ -11513,8 +11513,8 @@
             "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.DAL\\NBU.DAL.csproj": {
               "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.DAL\\NBU.DAL.csproj"
             },
-            "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj": {
-              "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj"
+            "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj": {
+              "projectPath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj"
             }
           }
         }

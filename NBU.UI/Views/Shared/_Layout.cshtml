@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@inject IHtmlLocalizer<_LayoutResx> _loclizer
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -36,7 +37,7 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">@Localizer["Home"]</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">@_loclizer["Home"]</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -45,7 +46,7 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Genders" asp-action="Index">Gender</a>
                         </li>
                          <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Index">@Localizer["Employee"]</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Index">@_loclizer["Employee"]</a>
                         </li>
                     </ul>
                 </div>

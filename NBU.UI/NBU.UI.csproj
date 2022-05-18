@@ -29,7 +29,7 @@
     <ProjectReference Include="..\NBU.BLL\NBU.BLL.csproj" />
     <ProjectReference Include="..\NBU.Common\NBU.Common.csproj" />
     <ProjectReference Include="..\NBU.DAL\NBU.DAL.csproj" />
-    <ProjectReference Include="..\NBU.Localization\NBU.Localization.csproj" />
+    <ProjectReference Include="..\NBU.Localization\NBU.Resources.cs.csproj" />
   </ItemGroup>
 
   <ItemGroup>

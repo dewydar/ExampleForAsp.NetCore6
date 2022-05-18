@@ -1,0 +1,17 @@
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Resources.cs.deps.json
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Resources.cs.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\NBU.Resources.cs.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\bin\Debug\net6.0\ar\NBU.Resources.cs.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.csproj.AssemblyReference.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.Resources._LayoutResx.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.Resources._LayoutResx.ar.resources
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.csproj.GenerateResource.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.AssemblyInfoInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.AssemblyInfo.cs
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.csproj.CoreCompileInputs.cache
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\ar\NBU.Resources.cs.resources.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\refint\NBU.Resources.cs.dll
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\NBU.Resources.cs.pdb
+F:\Work\NBU 17-05-2022\NBU\NBU.Localization\obj\Debug\net6.0\ref\NBU.Resources.cs.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZA/OPTHUzkX3PfHZwgs+Jh7PM3fQT/RwmFrYkyjpRqQ+Z3RliFXh2LzDOwyEJH8Q6/ME9oi1dVxaUEf/hJZoQA==",
+  "dgSpecHash": "zJsFArR4eadbglvbCIA3TjwaaSyQV2u+0M8RlaDXu4IsKuBfnyCs+3tTXOPLa9kAgtn6EE1XGOkSYPB75aw5BA==",
   "success": true,
-  "projectFilePath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Localization.csproj",
+  "projectFilePath": "F:\\Work\\NBU 17-05-2022\\NBU\\NBU.Localization\\NBU.Resources.cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\4769485758\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",

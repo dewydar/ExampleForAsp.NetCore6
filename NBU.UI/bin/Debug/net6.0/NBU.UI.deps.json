@@ -19,7 +19,7 @@
           "NBU.BLL": "1.0.0",
           "NBU.Common": "1.0.0",
           "NBU.DAL": "1.0.0",
-          "NBU.Localization": "1.0.0",
+          "NBU.Resources.cs": "1.0.0",
           "Swashbuckle.AspNetCore": "6.3.0",
           "System.Resources.ResourceManager": "4.3.0"
         },
@@ -2735,16 +2735,16 @@
           "NBU.DAL.dll": {}
         }
       },
-      "NBU.Localization/1.0.0": {
+      "NBU.Resources.cs/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Localization": "2.2.0",
           "Microsoft.Extensions.Localization": "6.0.5"
         },
         "runtime": {
-          "NBU.Localization.dll": {}
+          "NBU.Resources.cs.dll": {}
         },
         "resources": {
-          "ar/NBU.Localization.resources.dll": {
+          "ar/NBU.Resources.cs.resources.dll": {
             "locale": "ar"
           }
         }
@@ -4396,7 +4396,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "NBU.Localization/1.0.0": {
+    "NBU.Resources.cs/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
